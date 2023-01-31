@@ -1,0 +1,62 @@
+body{
+    background-color: rgb(155, 224, 242);
+    opacity: 1;
+}
+a.a1{
+    align-items: center;
+    font-size: 30px;
+    color: black;
+    
+    border: 5px solid rgb(31, 7, 212);
+    border-radius: 12px;
+    padding: 5px;
+}
+a.a3{
+    align-items: center;
+    font-size: 30px;
+    color: rgb(15, 15, 15);
+    border: 5px solid rgb(219, 88, 17);
+    border-radius: 12px;
+    padding: 8px;
+}
+
+
+.saurabh{
+    font-size: 30px;
+    color: rgb(255, 0, 0);
+}
+ 
+.sec{
+    color: blue;
+    
+    
+}
+.home{
+    color: rgb(248, 241, 241);
+    font-size: 30px;
+    background-color: rgb(14, 14, 14);
+    border: 5px solid rgb(21, 21, 22);
+    border-radius: 12px;
+    padding: 5px;
+
+}
+.exp{
+    background-color: lightgreen;
+}
+.real{
+    background-color: lightgreen;
+
+}
+.me{
+    background-color: yellowgreen;
+}
+.left{
+    position: absolute;
+    right: 0px;
+
+}
+.right{
+    position: absolute;
+    left: 0px;
+
+}
